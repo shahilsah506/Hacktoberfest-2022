@@ -10,6 +10,7 @@ This is a repository I made to give beginners a head start to hacktoberfest, and
 - You can upload your Projects (Or create a new file for it)
 - Commit your changes
 - Make a pull request and that's all
+- And finally wait for the maintainer to edit
 
 ## I'll make sure to merge it❤
 
